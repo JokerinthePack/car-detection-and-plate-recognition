@@ -1,0 +1,12 @@
+﻿  DetectChars.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\detectchars.h(6): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  DetectPlates.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\detectplates.h(6): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Main.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\main.h(6): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  PossibleChar.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\possiblechar.h(6): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  PossiblePlate.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\possibleplate.h(8): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  Preprocess.cpp
+d:\ozan\ders\bitirme\programming\platerecognition\preprocess.h(6): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
